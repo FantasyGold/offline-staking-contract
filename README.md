@@ -1,2 +1,2 @@
-# offline-staking-contract
+# FANTASYGOLD 
 Smart Contract for FGC Offline Staking 
